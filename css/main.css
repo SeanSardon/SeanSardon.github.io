@@ -41,3 +41,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.border { border-width: 10px; border-color: lightblue; border-style: solid; }
