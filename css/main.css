@@ -40,6 +40,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+/* I made my border lightblue to add some color to my page since I put the background as white*/
 }
 
 .border { border-width: 10px; border-color: lightblue; border-style: solid; }
